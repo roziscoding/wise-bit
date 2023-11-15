@@ -1,7 +1,5 @@
 # Wise Bit
 
-Bitwise flag manager written in TypeScript.
-
 ## Description
 
 This project provides a TypeScript class `Flags` that allows you to manage a set of flags.
